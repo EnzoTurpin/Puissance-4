@@ -1,0 +1,32 @@
+# Fichiers compilés
+*.class
+
+# Dossier de build
+/build/
+
+# Dossiers et fichiers IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Dossiers et fichiers de package
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Autres fichiers et répertoires ignorés
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de sauvegarde
+*~
